@@ -24,12 +24,16 @@ Superstore Dataset
 
 E-commerce Order Dataset
 
-•	Average approval days
-•	Best-selling products
-•	Distinct Customers
-•	First 20 Orders
+  •	Average approval days
+  •	Best-selling products
+  •	Distinct Customers
+  •	First 20 Orders
 •	Number of products by category
 •	Payment type
 •	Top 10 Customers
 •	Total revenue by product
+
+Tehnologii utilizate
+PostgreSQL – pentru rularea și testarea interogărilor SQL.
+DB Browser (SQLite) – pentru explorarea și verificarea dataseturilor într-un mediu grafic ușor de folosit.
 
