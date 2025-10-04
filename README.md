@@ -24,10 +24,10 @@ Superstore Dataset
 
 E-commerce Order Dataset
 
-  •	Average approval days
-  •	Best-selling products
-  •	Distinct Customers
-  •	First 20 Orders
+•	Average approval days
+•	Best-selling products
+•	Distinct Customers
+•	First 20 Orders
 •	Number of products by category
 •	Payment type
 •	Top 10 Customers
