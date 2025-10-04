@@ -6,6 +6,7 @@ Descriere generală
   Structura repository-ului
 
 Product Orders
+
 •	Average-num-of-orders
 •	Hard-selling-products
 •	Orders-By-Month
@@ -13,6 +14,7 @@ Product Orders
 •	Total-Orders-By-Product_Id
 
 Superstore Dataset
+
 •	Average Discount
 •	Best Selling Products
 •	Divide Customers
@@ -21,6 +23,7 @@ Superstore Dataset
 •	Top 10 Customers
 
 E-commerce Order Dataset
+
 •	Average approval days
 •	Best-selling products
 •	Distinct Customers
